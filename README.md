@@ -1,15 +1,15 @@
-# Isekai Lite
+# Isekai Pulse Lite
 
 Переносная панель для **Isekai: Waifu Overlord** на Windows 10/11 x64.
 
 ## Скачать и запустить
 
-**[Скачать Isekai Lite для Windows x64](https://github.com/ChiRaNyx/Isekai-Lite/releases/latest/download/Isekai-Lite-Windows-x64.zip)**
+**[Скачать Isekai Pulse Lite для Windows x64](https://github.com/ChiRaNyx/Isekai-Lite/releases/latest/download/Isekai-Lite-Windows-x64.zip)**
 
 1. Откройте **Releases** в этом репозитории.
 2. Скачайте **Isekai-Lite-Windows-x64.zip** из списка Assets.
 3. Распакуйте архив целиком в отдельную папку с правом записи.
-4. Запустите **Isekai_Lite.exe**. Резервный запуск — **Start_Lite.bat**.
+4. Запустите **Isekai_Pulse_Lite.exe**. Резервный запуск — **Start_Lite.bat**.
 5. Панель откроется по адресу http://127.0.0.1:8767.
 
 Python и зависимости включены. Устанавливать Python или Node.js не нужно.
@@ -59,4 +59,4 @@ Python и зависимости включены. Устанавливать Py
 **Isekai-Lite-Source.zip** в Assets релиза, отдельно от переносного runtime.
 Автоматические архивы **Source code** содержат только файлы репозитория.
 Лицензионные уведомления включённых зависимостей сохранены в поставке.
-Isekai Lite — неофициальная панель. Название игры и её материалы принадлежат правообладателям.
+Isekai Pulse Lite — неофициальная панель. Название игры и её материалы принадлежат правообладателям.
